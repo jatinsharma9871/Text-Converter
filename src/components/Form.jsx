@@ -52,7 +52,7 @@ export default function Form(props){
   <a class="rainbow rainbow-1" style={{'borderRadius':'25px' ,'margin':'2px'}} >Click Me!</a>
 
   <div class="follow">
-  <a class="rainbow-4" href="http://twitter.com/althi">Follow me on Twitter</a>
+  <a class="rainbow-4" href="">Follow me on Twitter</a>
 
     
 </div>
